@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #1D4221;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
@@ -15,7 +15,7 @@ button {
     font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo{
+.passo {
     display: none;
 }
 
@@ -23,7 +23,7 @@ button {
     display:block;
 }
 
-.main {
+main {
     text-align: center;
     max-width: 90%;
 }
